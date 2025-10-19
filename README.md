@@ -1,2 +1,4 @@
 # Phase-3-Capstone--Mind-Body-Secure
-Mind &amp; Body Secure is a cloud-native, AI-driven platform that protects sensitive women’s health and mental health data using KMS encryption, SIEM monitoring, and AI insights, while providing a client-facing knowledge base to ensure security, compliance, and user empowerment.
+Mind & Body Secure is a cloud-native, AI-driven platform designed to protect sensitive women’s health and mental health data while empowering users with actionable insights. The platform ensures the confidentiality, integrity, and compliance of personal health records through KMS encryption, SIEM-based threat monitoring, and AI-driven analysis that translates security incidents into clear, human-readable insights.
+
+Additionally, a client-facing Knowledge Base provides clinicians, administrators, and patients with guidance on security practices, rights, and compliance, making sensitive healthcare data both safe and understandable. This project demonstrates the integration of cloud security, AI analytics, and privacy-focused design in high-stakes healthcare domains.
